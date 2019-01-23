@@ -1,11 +1,3 @@
-Deliverables:
-
--Get products from 'http/localhost:3006/products'
--Show all of the products
--Search product by name and category
--Add product to cart
-  - There should be a number next to cart icon which shows how many items are in the cart
-  - Cart should render the names of all the products in the cart
 
 
 
