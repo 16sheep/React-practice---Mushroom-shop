@@ -17,7 +17,7 @@ mushrooms-front holds the frontend of this practice, you will need to run npm in
 
 6. When a user clicks cart button in NavBar the page should render Cart component instead of ProductsContainer
 
-7. Cart component should render a list of names and price of the items the user has added to the cart and a total sum of cart items.
+7. Cart component should render a list of names and price of the items the user has added to the cart and a total sum of cart items, each cart item should have a button to remove it from the cart.
 
 BONUS
 
